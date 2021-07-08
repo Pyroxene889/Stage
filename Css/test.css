@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Rubik:500');
+
+body {
+    padding: 2em;
+    background:  #fff;
+    font-size: 1.1em;
+}
+
+
+
+
+.row{
+
+}
+
+.col{
+  padding: 10px;
+}
+
+
+.container-fluid {
+
+box-shadow: 1px 1px 3px #555;
+background: #ffffff;
+padding-top: 30px;
+padding-left: 40px;
+padding-bottom: : 40px;
+}
+
+
+button{
+  border-width: 1px;
+  border-style: solid;
+}
+
+
+select{
+box-shadow: 1px 1px 2px #555;
+
+}
+
+
+.button:hover {
+  background-color: #e6e6e6; /* Green */
+  color: white;
+}
+
+
+text{
+  padding: 0px;
+}
